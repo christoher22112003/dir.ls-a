@@ -1,0 +1,2 @@
+# dir.ls-a
+ "dir.ls-a" es un proyecto en desarrollo para la creación de una máquina automatizada de reciclaje de botellas, cuyo objetivo es incentivar el reciclaje a través de un sistema de recompensas basado en puntos. Los usuarios podrán depositar botellas reciclables y, en función del peso o la cantidad, acumular puntos que podrán canjear en el bar de la Pontificia Universidad Catolica del Ecuador sede Ambato.
